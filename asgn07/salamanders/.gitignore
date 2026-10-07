@@ -1,0 +1,4 @@
+/private/db_credentials.php
+*.log
+.DS_Store
+Thumbs.db
