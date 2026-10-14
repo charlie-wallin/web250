@@ -1,0 +1,336 @@
+{
+  "purpose": "Local teaching assets for a future PHP image-resizing assignment.",
+  "provenance": "AI-generated illustrations, cropped to separate files and converted to JPEG. Not photographs. Not a scientific identification guide.",
+  "image_count": 17,
+  "relationship_count": 18,
+  "images": [
+    {
+      "file_name": "eastern_towhee_male.jpg",
+      "caption": "Eastern Towhee: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Eastern Towhee.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 594,
+      "height_px": 296,
+      "file_bytes": 46070,
+      "sha256": "7833f2fc5809cf5890f914a901fc3dcf6887ed1c1ae44951bb2fd9fd69bb1a6b",
+      "links": [
+        {
+          "scientific_name": "Pipilo erythrophthalmus",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "eastern_towhee_female.jpg",
+      "caption": "Eastern Towhee: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Eastern Towhee.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 593,
+      "height_px": 296,
+      "file_bytes": 48599,
+      "sha256": "444479f980434e8c4266b477be4e2553fb2e984095925834bfb871ffb2fc0b13",
+      "links": [
+        {
+          "scientific_name": "Pipilo erythrophthalmus",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "american_robin_male.jpg",
+      "caption": "American Robin: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male American Robin.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 594,
+      "height_px": 325,
+      "file_bytes": 50116,
+      "sha256": "32b2f94edabb2d03c3b8055fec0f8176eb7c089935533df6f9a8e2cefea6ca3c",
+      "links": [
+        {
+          "scientific_name": "Turdus migratorius",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "american_robin_female.jpg",
+      "caption": "American Robin: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female American Robin.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 593,
+      "height_px": 325,
+      "file_bytes": 50248,
+      "sha256": "c25bd2907652633d624a53a1936cb93f2de9f2b01a4e0b054975f3655c25b8d8",
+      "links": [
+        {
+          "scientific_name": "Turdus migratorius",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "blue_jay_male.jpg",
+      "caption": "Blue Jay: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Blue Jay.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 594,
+      "height_px": 324,
+      "file_bytes": 54897,
+      "sha256": "7986ab2298a9163e4de1820f66c000c71a314b1d29de69e74b57ae3b59caa6a7",
+      "links": [
+        {
+          "scientific_name": "Cyanocitta cristata",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "blue_jay_female.jpg",
+      "caption": "Blue Jay: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Blue Jay.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 593,
+      "height_px": 324,
+      "file_bytes": 51428,
+      "sha256": "ff512e13c8731399316419a794112bad233d8aec04022914ed26e19b87e05a69",
+      "links": [
+        {
+          "scientific_name": "Cyanocitta cristata",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "carolina_wren_male.jpg",
+      "caption": "Carolina Wren: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Carolina Wren.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 594,
+      "height_px": 343,
+      "file_bytes": 60790,
+      "sha256": "fb6ca76810fe4732594774ad5ebf8c3ea2a82385d42f32b770007eb2d39d15c7",
+      "links": [
+        {
+          "scientific_name": "Thryothorus ludovicianus",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "carolina_wren_female.jpg",
+      "caption": "Carolina Wren: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Carolina Wren.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 593,
+      "height_px": 343,
+      "file_bytes": 59239,
+      "sha256": "17b10dc1ce1fab2e21f2e2095ec2257bc362de3e8f348c892add5b567fe49bac",
+      "links": [
+        {
+          "scientific_name": "Thryothorus ludovicianus",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "northern_cardinal_male.jpg",
+      "caption": "Northern Cardinal: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Northern Cardinal.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 378,
+      "file_bytes": 57449,
+      "sha256": "3761a75e2ee4d580a730ceec0e31a90cdc2058b490505ea69b660fd0e69b259f",
+      "links": [
+        {
+          "scientific_name": "Cardinalis cardinalis",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "northern_cardinal_female.jpg",
+      "caption": "Northern Cardinal: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Northern Cardinal.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 378,
+      "file_bytes": 54338,
+      "sha256": "500b931fef66f83110ea3ab158dee4605fef1c20ae03769b613473899565dbce",
+      "links": [
+        {
+          "scientific_name": "Cardinalis cardinalis",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "red_bellied_woodpecker_male.jpg",
+      "caption": "Red-bellied Woodpecker: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Red-bellied Woodpecker.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 384,
+      "file_bytes": 55464,
+      "sha256": "1f698214b62c70407051dfae59933983c3c57041a7a0b8653c8f81d153817241",
+      "links": [
+        {
+          "scientific_name": "Melanerpes carolinus",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "red_bellied_woodpecker_female.jpg",
+      "caption": "Red-bellied Woodpecker: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Red-bellied Woodpecker.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 384,
+      "file_bytes": 54110,
+      "sha256": "1ad45ba5e5279dfc505acd3850f90bc75cf797f6ee00f2683088cb79f39077a6",
+      "links": [
+        {
+          "scientific_name": "Melanerpes carolinus",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "dark_eyed_junco_male.jpg",
+      "caption": "Dark-eyed Junco: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Dark-eyed Junco.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 344,
+      "file_bytes": 45101,
+      "sha256": "3fdb64d2732dbedd39639a46a1bfbb934e062e7fca8d4d195827c08f9e14359c",
+      "links": [
+        {
+          "scientific_name": "Junco hyemalis",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "dark_eyed_junco_female.jpg",
+      "caption": "Dark-eyed Junco: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Dark-eyed Junco.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 344,
+      "file_bytes": 47239,
+      "sha256": "24909dd686bd0badfc2dee0797bafcf3c1639dac44b4cdc3ad533c039c940734",
+      "links": [
+        {
+          "scientific_name": "Junco hyemalis",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "rose_breasted_grosbeak_male.jpg",
+      "caption": "Rose-breasted Grosbeak: male teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a male Rose-breasted Grosbeak.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 406,
+      "file_bytes": 55292,
+      "sha256": "0bea040f48b4ccf3f23fd98699d4caa0fc2878967d0842b13dc1b55142e2d634",
+      "links": [
+        {
+          "scientific_name": "Pheucticus ludovicianus",
+          "sex": "male",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "file_name": "rose_breasted_grosbeak_female.jpg",
+      "caption": "Rose-breasted Grosbeak: female teaching illustration",
+      "alt_text": "AI-generated illustration intended to represent a female Rose-breasted Grosbeak.",
+      "image_kind": "ai_illustration",
+      "credit": "AI-generated for this teaching package; not a photograph.",
+      "source_url": null,
+      "width_px": 506,
+      "height_px": 406,
+      "file_bytes": 67529,
+      "sha256": "303e84c9c50bd2ca77c4ab1ee4831eb85a6a838cd8a314ee8decf21fc3010b20",
+      "links": [
+        {
+          "scientific_name": "Pheucticus ludovicianus",
+          "sex": "female",
+          "sort_order": 2
+        }
+      ]
+    },
+    {
+      "file_name": "towhee_cardinal_comparison.jpg",
+      "caption": "Eastern Towhee and Northern Cardinal: comparison illustration",
+      "alt_text": "Side-by-side AI-generated teaching illustrations of a male Eastern Towhee and a male Northern Cardinal.",
+      "image_kind": "ai_illustration",
+      "credit": "Composite of two AI-generated teaching illustrations; not a photograph.",
+      "source_url": null,
+      "width_px": 1120,
+      "height_px": 378,
+      "file_bytes": 110310,
+      "sha256": "e7354b3974938a65bb12b28325e0bc77597036bf904bc216c834e767a752c23a",
+      "links": [
+        {
+          "scientific_name": "Pipilo erythrophthalmus",
+          "sex": "male",
+          "sort_order": 3
+        },
+        {
+          "scientific_name": "Cardinalis cardinalis",
+          "sex": "male",
+          "sort_order": 3
+        }
+      ]
+    }
+  ]
+}
