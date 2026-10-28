@@ -2,6 +2,7 @@
 
 class Bird
 {
+    // properties correspond to columns in the birds table
     private static PDO $database;
 
     public int $id = 0;
