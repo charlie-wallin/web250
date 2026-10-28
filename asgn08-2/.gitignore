@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+# Local credentials are intentionally NOT in the ZIP or Git repository.
+private/db_credentials.php
+# Temporary diagnostic scripts should stay local.
+public/xdebug_check.php
+public/phpinfo.php
+public/debug_info.php

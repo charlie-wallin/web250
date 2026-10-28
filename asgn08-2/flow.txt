@@ -1,0 +1,23 @@
+Browser requests public/birds.php
+             |
+             v
+private/initialize.php
+  -> Database::connect()
+  -> Bird::set_database($pdo)
+|
+             v
+$birds = Bird::find_all()
+|
+             v
+Bird.php: SELECT ... FROM birds ORDER BY common_name
+-> query()
+-> fetchAll(PDO::FETCH_ASSOC)
+-> foreach row
+     -> from_row(row)
+     -> append to birds array
+-> return array of Bird objects
+|
+// array of associative rows
+// one Bird object
+               v
+  public/birds.php: foreach -> escaped HTML table + detail links

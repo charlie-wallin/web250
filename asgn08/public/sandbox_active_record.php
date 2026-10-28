@@ -9,6 +9,7 @@ try {
     // Use the existing asgn07 Database connection class and credentials.
     $pdo = (isset($pdo) && $pdo instanceof PDO) ? $pdo : Database::connect();
     SandboxBird::set_database($pdo);
+    // Create an array of SandboxBird objects from the birds table.
     $birds = SandboxBird::find_all();
 } catch (PDOException $e) {
     error_log($e->getMessage());
@@ -24,10 +25,12 @@ function sandbox_h(string $value): string
 ?>
 <!doctype html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <title>Active Record Sandbox</title>
 </head>
+
 <body>
     <h1>Active Record Sandbox</h1>
     <p>SandboxBird objects returned: <?= count($birds) ?></p>
@@ -45,4 +48,5 @@ function sandbox_h(string $value): string
         </ul>
     <?php endif; ?>
 </body>
+
 </html>
